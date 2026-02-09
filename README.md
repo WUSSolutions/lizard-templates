@@ -7,10 +7,12 @@ Willkommen im offiziellen Repository für **Lizard-Vorlagen**. Hier findest du a
 - **Stammdaten:** Import-Formate für schnellen Datenabgleich.
 
 ## Nutzung in der Dokumentation
-Diese Vorlagen sind direkt in der [Lizard Dokumentation][https://documentation.go-lizard.com/] verlinkt. 
+Diese Vorlagen sind direkt in der [Lizard Dokumentation](https://documentation.go-lizard.com/) verlinkt. 
 
 **Hinweis für den Download:**
 Um eine Datei herunterzuladen, klicke in der Dokumentation auf den entsprechenden Button oder hier im Repo auf die gewünschte Datei und anschließend auf den Button **"Raw"**, um die CSV-Struktur direkt zu speichern.
 
 ---
 *Erstellt für die Nutzer des Lizard-Systems.*
+
+made with love by WUS Solutions
